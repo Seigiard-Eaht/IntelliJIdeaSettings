@@ -245,6 +245,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="961574" />
+        <option name="BACKGROUND" value="e8e8e8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
